@@ -255,13 +255,6 @@ Encontrou um bug? Por favor, abra uma [issue](https://github.com/seu-usuario/pg-
 
 ## 👥 Autores
 
-- **Seu Nome** - *Trabalho inicial* - [seu-usuario](https://github.com/seu-usuario)
-
-## 🙏 Agradecimentos
-
-- Comunidade PostgreSQL
-- Contribuidores do projeto
-
----
+- **Davi SIlva Rafacho** - [davisilvarafacho](https://github.com/davisilvarafacho)
 
 ⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
