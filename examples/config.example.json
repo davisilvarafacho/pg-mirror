@@ -1,0 +1,19 @@
+{
+  "source": {
+    "host": "origem.exemplo.com",
+    "port": 5432,
+    "database": "meu_banco",
+    "user": "postgres",
+    "password": "senha_segura_origem"
+  },
+  "target": {
+    "host": "destino.exemplo.com",
+    "port": 5432,
+    "user": "postgres",
+    "password": "senha_segura_destino"
+  },
+  "options": {
+    "drop_existing": false,
+    "parallel_jobs": 4
+  }
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+"""
+pg-mirror entry point
+Wrapper simples para manter compatibilidade com db-restore.py
+"""
+from pg_mirror.cli import cli
+
+if __name__ == '__main__':
+    cli(obj={})

@@ -1,0 +1,19 @@
+{
+  "source": {
+    "host": "prod-db.empresa.com",
+    "port": 5432,
+    "database": "app_production",
+    "user": "readonly_user",
+    "password": "senha_readonly"
+  },
+  "target": {
+    "host": "staging-db.empresa.com",
+    "port": 5432,
+    "user": "admin_user",
+    "password": "senha_admin"
+  },
+  "options": {
+    "drop_existing": true,
+    "parallel_jobs": 8
+  }
+}
