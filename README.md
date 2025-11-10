@@ -255,6 +255,6 @@ Encontrou um bug? Por favor, abra uma [issue](https://github.com/seu-usuario/pg-
 
 ## 👥 Autores
 
-- **Davi SIlva Rafacho** - [davisilvarafacho](https://github.com/davisilvarafacho)
+- **Davi Silva Rafacho** - [davisilvarafacho](https://github.com/davisilvarafacho)
 
 ⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
